@@ -40,5 +40,14 @@ Data persistence using MySQL
 Real-world payroll operations simulation
 This project is an ideal portfolio piece for entry-level software developer positions.
 
+## 🖼️ Screenshots
+
+### 📥 Input Screenshot
+![Input Screenshot](input.png)
+
+### 📤 Output Screenshot
+![Output Screenshot](output.png)
+
+
 
 
